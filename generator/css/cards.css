@@ -28,7 +28,7 @@
 
 .card-back {
 /*     background-color: white; */
-    border-radius: 10mm;
+    border-radius: 4mm;
     border-color: inherit;
     margin: 3mm;
     flex: 1;
@@ -95,7 +95,7 @@
 }
 
 .card-title {
-    height: 30mm;
+    height: 8mm;
     padding-left: 2mm;
     font-family: Lora, 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
     font-variant: small-caps;
